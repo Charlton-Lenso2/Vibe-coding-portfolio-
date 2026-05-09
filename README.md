@@ -8,7 +8,7 @@
 
 ## Live Site
 
-[charlton-s-portfolio.vercel.app](https://charlton-s-portfolio.vercel.app/)
+[charlton-s-portfolio.vercel.app](https://charlton-lenso-vibe-coding-portfoli.vercel.app/)
 
 ---
 
