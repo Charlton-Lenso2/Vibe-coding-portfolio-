@@ -71,7 +71,7 @@ charlton-portfolio/
 
 ---
 
-## 📌 Projects Featured
+## Projects Featured
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -84,7 +84,7 @@ charlton-portfolio/
 
 ##  License
 
-This project is open source and free to use as inspiration. Please don't copy it directly — build your own version and make it yours! 🚀
+This project is open source and free to use as inspiration. Please don't copy it directly — build your own version and make it yours! 
 
 ---
 
